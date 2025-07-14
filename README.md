@@ -1,6 +1,6 @@
 
 ## Hello! 👋
-  I'm Samuel, a frontend enthusiast, passionate about UX/UI Design. currently studying as Web Developer at ITS. 📚
+  I'm Samuel, a frontend enthusiast, passionate about UX/UI Design. Graduated as Web Developer at ITS. 📚
 ## My Skills :computer:
   - Good knowledge of HTML, CSS, JS and a some basics of mySQL and C++.
   - Frameworks: React, Angular - currently learning React Native.
