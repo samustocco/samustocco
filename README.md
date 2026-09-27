@@ -22,7 +22,7 @@ Currently learning Three.js and Framer Motion, mostly to see how much animations
 ## My Designs 🎨
  Here's what I've been busy doing in Figma, recently:
  
-[![Card for "Backup Project UI" with link to Figma](assets/github-link.png)](https://www.figma.com/design/1qi0MyLKgNljNAd8TirZEP/BackSafe---completato?node-id=117-3474&t=ejWgrIYZCf6momJH-1) 
+[![Card for "Backup Project UI" with link to Figma](backup-software-github-link.png)](https://www.figma.com/design/1qi0MyLKgNljNAd8TirZEP/BackSafe---completato?node-id=117-3474&t=ejWgrIYZCf6momJH-1) 
 
 ## See you, for now...
 Let's connect if you're into design systems, want to share some ideas, collaborate, or just to chill while drinking a coffee ☕ or a spritz 🍹 together.
